@@ -1,20 +1,13 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![张以恒](https://img.shields.io/badge/z-yhhh-github-blue?logo=github)](https://github.com/z-yhhh)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm Zhang Yiheng (张以恒), currently a junior undergraduate student at Sichuan University.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>2021151470061@stu.scu.edu.cn</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
-
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Sichuan University**, Bachelor's degree (2022 – 2026)  
+• Current Status: Junior undergraduate student  
 
 #### Research Interests  
-XX, XX, XX, XX.
+To be updated.
