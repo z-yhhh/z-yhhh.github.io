@@ -1,5 +1,3 @@
-[![张以恒](https://img.shields.io/badge/z-yhhh-github-blue?logo=github)](https://github.com/z-yhhh)
-
 I'm Zhang Yiheng (张以恒), currently a junior undergraduate student at Sichuan University.
 
 #### Email  
